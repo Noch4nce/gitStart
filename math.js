@@ -1,6 +1,8 @@
 // let a = 10;
 // let b = 3;
 
+//const { i } = require("mathjs");
+
 
 // let res = a % b;
 // console.log(a % b);
@@ -83,4 +85,19 @@
 // let b = 5;
 // let c = Math.abs(a - b);
 // console.log(c);
+
+// let arr = [12, 15, 20, 25, 59, 79];
+
+// let sum = 0;
+// for (i = 0; i < arr.length; i++){
+//     sum += arr[i];  
+// }
+// console.log (sum / arr.length);
+
+// let a = 1;
+// for (i = 1; i <= 6; i++){
+//     a = a * i;   
+// }
+// console.log(a)
+
 
