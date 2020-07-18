@@ -1,0 +1,19 @@
+.sliderMain {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10;
+}
+
+.sliderMain button {
+    width: 55px;
+    height: 40px;
+    background-color: lightblue;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.sliderMain .imgMain {
+    width: 400px;
+    height: 250px;
+    border: 2px solid lightgrey;  
+}
