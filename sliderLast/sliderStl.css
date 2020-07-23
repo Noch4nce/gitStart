@@ -1,0 +1,20 @@
+.sliderMain {
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+.sliderMain button {
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: cyan;
+    border: 4px solid saddlebrown;
+    font-size: 18px;
+    font-family: initial;
+    font-weight: bolder;
+}
+.sliderMain img {
+    width: 500px;
+    height: 300px;
+}
